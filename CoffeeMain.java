@@ -15,13 +15,13 @@ class CoffeeMachine {
     }
 
     private void SetIngredient() { // Calling for Filling Ingredient
-        System.out.print("Water: ");
+        System.out.print("Water(ml): ");
         water += scan.nextInt();
-        System.out.print("Coffee beans: ");
+        System.out.print("Coffee(gm): ");
         coffeePowder += scan.nextInt();
-        System.out.print("Cream: ");
+        System.out.print("Cream(gm): ");
         cream += scan.nextInt();
-        System.out.print("Milk: ");
+        System.out.print("Milk(ml): ");
         milk += scan.nextInt();
         System.out.print("Sugar cubes: ");
         sugar += scan.nextInt();
