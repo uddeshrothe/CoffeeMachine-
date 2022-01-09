@@ -207,7 +207,7 @@ class CoffeeMachine {
     }
 }
 
-public class Main2 {
+public class CoffeeMain {
     public static void main(String[] args) {
 
         CoffeeMachine cm = new CoffeeMachine(); // Instance For CoffeMachine
